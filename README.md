@@ -23,7 +23,7 @@ biocManager::install(“Name_of_the_library_to_be_installed”)
 3. In this tutorial, you will be using the mRNAseq_preprocess archived file of Head and Neck squamous cell carcinoma obtained from the Broad GDAC firehose. Decompress the downloaded file and import the file names as “HNSC.mRNAseq_raw_counts.txt” in R.
 4. When assigning features to the raw counts, also retrieve the clinical archive file called “Clinical_Pick_Tier1”. After decompressing the file, restructure the file named “All_CDEs.txt” (Use the methodology described in the “Creating a meta-file from TCGA raw clinical file” session). For convenience, the “meta_data.txt” has been added to the current repository.
 
-## Running the script
+## Running the "Differential_gene_expression_analysis.R" script
 
 1. Change the directory path to your dataset location.
 2. Customize the names of the input and output files as you like.

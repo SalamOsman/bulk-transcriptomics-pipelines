@@ -1,4 +1,4 @@
-# Differential gene expression analysis of TCGA datasets.
+# Differential gene expression analysis of TCGA datasets
 
 A comprehensive analysis of the differential gene expression matrix from The Cancer Genome Atlas (TCGA) repository.
 
